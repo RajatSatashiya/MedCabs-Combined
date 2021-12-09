@@ -1,0 +1,6 @@
+[submodule "MedCabs-Server"]
+	path = MedCabs-Server
+	url = https://github.com/RajatSatashiya/MedCabs-Server.git
+[submodule "MedCabs-client"]
+	path = MedCabs-client
+	url = https://github.com/RajatSatashiya/MedCabs-client.git
